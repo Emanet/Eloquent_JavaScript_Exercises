@@ -22,10 +22,11 @@ console.log(power(2,10)); */
 greet("Harry");
 console.log("Bye"); */
 //----------
-function chicken() {
+/* function chicken() {
     return egg();
 };
 function egg() {
     return chicken();
 }
 console.log(chicken()+"came firs.");
+ */
