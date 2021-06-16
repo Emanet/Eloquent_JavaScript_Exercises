@@ -1,0 +1,5 @@
+function minimum(num1,num2) {
+    return Math.min(num1,num2);
+}
+
+console.log(minimum(5000,9999));
