@@ -7,7 +7,7 @@
 <img width="770" alt="Ekran Resmi 2021-06-18 21 29 28" src="https://user-images.githubusercontent.com/44415149/122602991-5ffefa80-d07c-11eb-938f-aaa7e600b738.png">
 <img width="657" alt="Ekran Resmi 2021-06-18 21 29 41" src="https://user-images.githubusercontent.com/44415149/122603011-642b1800-d07c-11eb-8c7b-d76e82c12043.png">
 <img width="712" alt="Ekran Resmi 2021-06-18 21 29 45" src="https://user-images.githubusercontent.com/44415149/122603020-68efcc00-d07c-11eb-8045-0f2d76deef99.png">
-<h2> Chapter 4 Functions </h2>
+<h2> Chapter 4 Data Structures: Objects and Arrays </h2>
 <img width="829" alt="Ekran Resmi 2021-06-27 16 25 30" src="https://user-images.githubusercontent.com/44415149/123546828-f8753900-d766-11eb-918b-7d9ac8902374.png">
 
 
