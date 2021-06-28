@@ -7,3 +7,12 @@ function reverseArray(reversedValue) {
   return myArray;
 }
 console.log(reverseArray(["A", "B", "C"]));
+
+let arrayValue = [5, 10, 15, 20, 25];
+reverseArrayInPlace = (reverseValueIn) => {
+  for (let i = reverseValueIn.length - 1; i >= 0; i--) {
+    reverseValueIn.push(reverseValueIn[i]);
+  }
+  return reverseValueIn.slice(reverseValueIn.length / 2, reverseValueIn.length);
+};
+console.log(reverseArrayInPlace(arrayValue));
